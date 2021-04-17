@@ -1,0 +1,16 @@
+D:\DEV\Estudos com CSharp e .Net\dio_dotnet_poo_app_Series\bin\Debug\net5.0\DIO.Series.exe
+D:\DEV\Estudos com CSharp e .Net\dio_dotnet_poo_app_Series\bin\Debug\net5.0\DIO.Series.deps.json
+D:\DEV\Estudos com CSharp e .Net\dio_dotnet_poo_app_Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+D:\DEV\Estudos com CSharp e .Net\dio_dotnet_poo_app_Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+D:\DEV\Estudos com CSharp e .Net\dio_dotnet_poo_app_Series\bin\Debug\net5.0\DIO.Series.dll
+D:\DEV\Estudos com CSharp e .Net\dio_dotnet_poo_app_Series\bin\Debug\net5.0\ref\DIO.Series.dll
+D:\DEV\Estudos com CSharp e .Net\dio_dotnet_poo_app_Series\bin\Debug\net5.0\DIO.Series.pdb
+D:\DEV\Estudos com CSharp e .Net\dio_dotnet_poo_app_Series\obj\Debug\net5.0\DIO.Series.csprojAssemblyReference.cache
+D:\DEV\Estudos com CSharp e .Net\dio_dotnet_poo_app_Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\Estudos com CSharp e .Net\dio_dotnet_poo_app_Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+D:\DEV\Estudos com CSharp e .Net\dio_dotnet_poo_app_Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+D:\DEV\Estudos com CSharp e .Net\dio_dotnet_poo_app_Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+D:\DEV\Estudos com CSharp e .Net\dio_dotnet_poo_app_Series\obj\Debug\net5.0\DIO.Series.dll
+D:\DEV\Estudos com CSharp e .Net\dio_dotnet_poo_app_Series\obj\Debug\net5.0\ref\DIO.Series.dll
+D:\DEV\Estudos com CSharp e .Net\dio_dotnet_poo_app_Series\obj\Debug\net5.0\DIO.Series.pdb
+D:\DEV\Estudos com CSharp e .Net\dio_dotnet_poo_app_Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
